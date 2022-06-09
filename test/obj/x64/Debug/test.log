@@ -1,0 +1,288 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,86): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,71): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,51): warning C4100: 'hPrevInstance': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,30): warning C4100: 'hInstance': unreferenced formal parameter
+  UDPSocket.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(4,1): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\stdafx.cpp : message : see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(45,15): warning C4244: 'argument': conversion from 'u_short' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp(12,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp(23,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp(37,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestProject.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(362,46): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(366,160): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(366,95): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(374,52): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(378,160): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(378,95): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(386,51): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(390,159): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(390,92): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(398,49): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(402,159): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(402,92): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(411,159): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(411,95): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(431,52): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(436,152): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(436,88): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(458,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(458,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(460,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(460,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(462,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(462,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(464,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(464,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(466,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(466,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(468,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(468,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(470,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(470,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(472,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(472,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(475,61): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(475,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(477,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(477,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(479,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(479,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(482,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(482,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(484,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(484,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(487,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(487,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(489,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(489,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(492,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(492,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(494,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(494,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(547,8): warning C4189: 'serverCommunication': local variable is initialized but not referenced
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(718,27): warning C4456: declaration of 'playerData' hides previous local declaration
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(669,10): message : see declaration of 'playerData'
+  SocketUtil.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(4,1): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\stdafx.cpp : message : see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(45,15): warning C4244: 'argument': conversion from 'u_short' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  MapData.cpp
+  GameplayData.cpp
+  DataStream.cpp
+  Player.cpp
+  Generating Code...
+  LINK : C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\\bin\x64\Debug\test.exe not found or not built by the last incremental link; performing full link
+framework.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(osmesa_context.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(egl_context.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(wgl_context.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'framework.lib(win32_window.obj)' or at ''; linking object as if no debug info
+framework.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_thread.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_time.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'framework.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+framework.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_joystick.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(win32_init.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(window.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(vulkan.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(monitor.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(input.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(init.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+framework.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'framework.lib(context.obj)' or at 'C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\glfw.pdb'; linking object as if no debug info
+  test.vcxproj -> C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\bin\x64\Debug\test.exe

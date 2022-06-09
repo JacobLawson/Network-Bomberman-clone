@@ -1,0 +1,2 @@
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\framework\lib\x64\Debug\framework.pdb
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\framework\obj\x64\Debug\framework.pdb

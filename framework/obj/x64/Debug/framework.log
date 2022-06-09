@@ -1,0 +1,13 @@
+﻿  glad.c
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  Application.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\framework\src\Application.cpp(25,134): warning C4100: 'data': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\framework\src\Application.cpp(25,95): warning C4100: 'length': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\framework\src\Application.cpp(25,66): warning C4100: 'id': unreferenced formal parameter
+  Application_Log.cpp
+  Gizmos.cpp
+  Utilities.cpp
+  Generating Code...
+ws2_32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in OpenGL32.lib(OPENGL32.dll); second definition ignored
+  framework.vcxproj -> C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\framework\lib\x64\Debug\framework.lib

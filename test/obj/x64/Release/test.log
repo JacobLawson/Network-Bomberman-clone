@@ -1,0 +1,308 @@
+﻿  Player.cpp
+  DataStream.cpp
+  GameplayData.cpp
+  main.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,86): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,71): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,51): warning C4100: 'hPrevInstance': unreferenced formal parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\main.cpp(7,30): warning C4100: 'hInstance': unreferenced formal parameter
+  MapData.cpp
+  SocketUtil.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(4,1): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\SocketUtil.cpp : message : see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(45,15): warning C4244: 'argument': conversion from 'u_short' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  stdafx.cpp
+  TestProject.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(362,154): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(362,90): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(369,46): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(373,160): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(373,95): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(381,52): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(385,160): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(385,95): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(393,51): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(397,159): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(397,92): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(405,49): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(409,159): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(409,92): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(418,52): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(423,152): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(423,88): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(463,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(463,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(465,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(465,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(467,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(467,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(469,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(469,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(471,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(471,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(473,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(473,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(475,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(475,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(477,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(477,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(480,61): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(480,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(482,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(482,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(484,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(484,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(487,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(487,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(489,66): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(489,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(492,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(492,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(494,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(494,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(497,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(497,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(499,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(499,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(534,8): warning C4189: 'serverCommunication': local variable is initialized but not referenced
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(687,27): warning C4456: declaration of 'playerData' hides previous local declaration
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\TestProject.cpp(638,10): message : see declaration of 'playerData'
+  UDPSocket.cpp
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(4,1): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp : message : see previous definition of '_WINSOCK_DEPRECATED_NO_WARNINGS'
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\include\SocketAddress.h(45,15): warning C4244: 'argument': conversion from 'u_short' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp(12,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp(23,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\src\UDPSocket.cpp(37,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+framework.lib(RakNetTypes.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(RakNetTypes.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(RakString.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(RakString.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(BitStream.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(BitStream.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(RakPeer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(RakPeer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(RakNetSocket2.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(RakNetSocket2.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(RakMemoryOverride.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(RakMemoryOverride.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(SimpleMutex.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(SimpleMutex.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(StringCompressor.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(StringCompressor.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(ReliabilityLayer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(ReliabilityLayer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(PluginInterface2.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(PluginInterface2.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(StringTable.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(StringTable.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(RakThread.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(RakThread.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(DS_HuffmanEncodingTree.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(DS_HuffmanEncodingTree.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(CCRakNetSlidingWindow.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(CCRakNetSlidingWindow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(DR_SHA1.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(DR_SHA1.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(TCPInterface.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(TCPInterface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(SocketLayer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(SocketLayer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+framework.lib(DS_ByteQueue.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Player.obj
+framework.lib(DS_ByteQueue.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Player.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+framework.lib(DR_SHA1.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+framework.lib(DR_SHA1.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+C:\Users\Work\Documents\GitHub\ct5052-network-bomberman-s1901022\test\\bin\x64\Release\test.exe : fatal error LNK1120: 2 unresolved externals
